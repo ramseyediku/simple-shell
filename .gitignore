@@ -1,0 +1,5 @@
+.vscode
+.idea
+cmake-build-debug
+.aliases
+/cmake-build-debug-coverage/
